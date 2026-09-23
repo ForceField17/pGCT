@@ -1,0 +1,10 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr17	47138865	.	T	C	.	.	SJ26	
+chr2	23788655	.	T	C	.	.	SJ26	
+chr2	232548335	.	G	A	.	.	SJ26	
+chr2	232549541	.	G	A	.	.	SJ26	
+chr21	46322720	.	G	T	.	.	SJ26	
+chr9	122476977	.	A	G	.	.	SJ26	

@@ -1,0 +1,11 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	31425936	.	C	T	.	.	B016	
+chr1	113966127	.	C	T	.	.	B016	
+chr1	175118802	.	G	T	.	.	B016	
+chr11	61364555	.	C	T	.	.	B016	
+chr15	47770314	.	A	G	.	.	B016	
+chr15	48756356	.	C	T	.	.	B016	
+chr16	22262984	.	G	A	.	.	B016	

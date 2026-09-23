@@ -1,0 +1,39 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	92481035	.	G	T	.	.	G8	
+chr1	110223579	.	G	C	.	.	G8	
+chr11	9286468	.	A	C	.	.	G8	
+chr14	47218262	.	C	A	.	.	G8	
+chr14	68892170	.	G	C	.	.	G8	
+chr15	49035702	.	A	C	.	.	G8	
+chr15	59171960	.	C	T	.	.	G8	
+chr16	16214201	.	A	G	.	.	G8	
+chr17	8268691	.	A	G	.	.	G8	
+chr17	28368808	.	G	A	.	.	G8	
+chr17	56998432	.	A	G	.	.	G8	
+chr17	69152136	.	T	C	.	.	G8	
+chr2	74262331	.	A	T	.	.	G8	
+chr20	37241432	.	C	G	.	.	G8	
+chr20	63672515	.	CTG	C	.	.	G8	
+chr3	9754819	.	G	A	.	.	G8	
+chr3	48601005	.	G	A	.	.	G8	
+chr3	51960169	.	T	A	.	.	G8	
+chr3	101566194	.	T	G	.	.	G8	
+chr3	154187659	.	AT	A	.	.	G8	
+chr3	180948439	.	CA	C	.	.	G8	
+chr4	441929	.	A	C	.	.	G8	
+chr4	70031978	.	G	T	.	.	G8	
+chr4	172379228	.	C	T	.	.	G8	
+chr5	128527843	.	A	G	.	.	G8	
+chr5	134686743	.	A	G	.	.	G8	
+chr5	150398364	.	CAAAG	C	.	.	G8	
+chr6	17421495	.	T	C	.	.	G8	
+chr6	112172714	.	GC	G	.	.	G8	
+chr7	77597883	.	C	G	.	.	G8	
+chr7	114652188	.	C	A	.	.	G8	
+chr8	19844096	.	C	A	.	.	G8	
+chr8	103427258	.	GT	G	.	.	G8	
+chr9	128574778	.	G	A	.	.	G8	
+chrX	47447870	.	G	A	.	.	G8	

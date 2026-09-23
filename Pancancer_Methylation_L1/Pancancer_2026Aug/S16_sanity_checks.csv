@@ -1,0 +1,5 @@
+"cancer_type","n","n_loss","n_neutral","pct_zero_insertions","median_ins_loss","median_ins_neutral","var_mean_ratio","spearman_meth_1p36","approx_vif"
+"HNSC",392,33,359,6.9,61,15,147.4,-0.23,1.06
+"LUSC",114,25,89,5.3,60,18,125.8,-0.33,1.12
+"UCEC",344,40,304,29.7,5,2,59.7,-0.175,1.03
+"TGCT",130,15,115,76.9,0,0,6.2,-0.014,1

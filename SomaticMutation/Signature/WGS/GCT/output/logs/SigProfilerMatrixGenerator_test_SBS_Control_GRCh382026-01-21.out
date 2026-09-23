@@ -1,0 +1,60 @@
+THIS FILE CONTAINS THE METADATA ABOUT SYSTEM AND RUNTIME
+
+
+-------System Info-------
+Operating System Name: Darwin
+Nodename: Dongs-MacBook-Pro.local
+Release: 21.6.0
+Version: Darwin Kernel Version 21.6.0: Wed Aug 10 14:28:23 PDT 2022; root:xnu-8020.141.5~2/RELEASE_ARM64_T6000
+
+-------Python and Package Versions------- 
+Python Version: 3.10.18
+SigProfilerMatrixGenerator Version: 1.3.5
+SigProfilerPlotting version: 1.4.1
+matplotlib version: 3.10.6
+statsmodels version: 0.14.5
+scipy version: 1.15.3
+pandas version: 2.3.2
+numpy version: 2.2.6
+
+-------Vital Parameters Used for the execution -------
+Project: test_SBS_Control
+Genome: GRCh38
+Input File Path: GCT/
+exome: False
+bed_file: None
+chrom_based: False
+plot: True
+tsb_stat: False
+seqInfo: False
+
+-------Date and Time Data------- 
+Date and Clock time when the execution started: 2026-01-21 10:29:13.447424
+
+
+-------Runtime Checkpoints------- 
+Chromosome 15 done
+Chromosome 20 done
+Chromosome 4 done
+Chromosome 11 done
+Chromosome Y done
+Chromosome 7 done
+Chromosome 12 done
+Chromosome 8 done
+Chromosome MT done
+Chromosome 16 done
+Chromosome 19 done
+Chromosome 3 done
+Chromosome X done
+Chromosome 10 done
+Chromosome 21 done
+Chromosome 5 done
+Chromosome 1 done
+Chromosome 14 done
+Chromosome 2 done
+Chromosome 18 done
+Chromosome 17 done
+Chromosome 9 done
+Chromosome 13 done
+Chromosome 6 done
+Chromosome 22 done

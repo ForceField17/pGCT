@@ -1,0 +1,40 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	3509054	.	G	A	.	.	SJ15	
+chr1	41016149	.	A	G	.	.	SJ15	
+chr1	148679554	.	G	T	.	.	SJ15	
+chr10	87894038	.	CATT	C	.	.	SJ15	
+chr12	3615310	.	C	A	.	.	SJ15	
+chr12	121823457	.	T	G	.	.	SJ15	
+chr15	75366437	.	T	G	.	.	SJ15	
+chr15	89268623	.	G	A	.	.	SJ15	
+chr16	15136100	.	C	T	.	.	SJ15	
+chr16	21075649	.	A	C	.	.	SJ15	
+chr16	70272081	.	A	C	.	.	SJ15	
+chr17	50188875	.	A	G	.	.	SJ15	
+chr17	76060364	.	T	G	.	.	SJ15	
+chr18	23630034	.	A	C	.	.	SJ15	
+chr19	35551092	.	C	T	.	.	SJ15	
+chr19	37894711	.	T	A	.	.	SJ15	
+chr19	48900820	.	A	C	.	.	SJ15	
+chr2	55049983	.	C	T	.	.	SJ15	
+chr2	172474095	.	T	G	.	.	SJ15	
+chr2	230294371	.	G	T	.	.	SJ15	
+chr20	33707880	.	C	T	.	.	SJ15	
+chr20	49374857	.	C	A	.	.	SJ15	
+chr22	30340283	.	G	A	.	.	SJ15	
+chr22	36875680	.	T	C	.	.	SJ15	
+chr22	38673150	.	C	G	.	.	SJ15	
+chr22	50055390	.	A	C	.	.	SJ15	
+chr3	65379470	.	C	T	.	.	SJ15	
+chr6	31672142	.	G	C	.	.	SJ15	
+chr6	87254915	.	G	C	.	.	SJ15	
+chr7	16526875	.	C	G	.	.	SJ15	
+chr7	77604953	.	T	A	.	.	SJ15	
+chr7	103320746	.	A	AAT	.	.	SJ15	
+chr8	11435150	.	C	T	.	.	SJ15	
+chr9	20988478	.	T	C	.	.	SJ15	
+chr9	71972922	.	T	G	.	.	SJ15	
+chrX	53216294	.	A	C	.	.	SJ15	

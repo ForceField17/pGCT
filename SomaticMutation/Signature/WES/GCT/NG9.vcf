@@ -1,0 +1,15 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr10	68740543	.	T	C	.	.	NG9	
+chr10	124681657	.	C	T	.	.	NG9	
+chr11	48123736	.	A	G	.	.	NG9	
+chr13	29767412	.	A	G	.	.	NG9	
+chr15	83943042	.	C	T	.	.	NG9	
+chr2	32024255	.	G	A	.	.	NG9	
+chr2	233729920	.	A	G	.	.	NG9	
+chr22	43176314	.	A	G	.	.	NG9	
+chr5	52933950	.	T	C	.	.	NG9	
+chr5	112234766	.	C	T	.	.	NG9	
+chrX	108580782	.	ATG	A	.	.	NG9	

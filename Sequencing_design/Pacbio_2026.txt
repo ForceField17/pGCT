@@ -1,0 +1,7 @@
+ID	Newly_collected	PatientBlood_LongRead	PatientTumor_LongRead	Tumor_RNAseq	Histology	Domin.His	Karyotype	Age	Gender	Site	Race	Cohort	PrimarySite	Order
+IGCT002	Yes	Yes	Yes	snRNA	IMT	IMT(>75%)	Normal	9	Male	Intracranial	Chinese	Tiantan	Intracranial	1
+IGCT003	Yes	Yes	Yes	snRNA	YST	YST(>90%)	Normal	13	Male	Intracranial	Chinese	Tiantan	Intracranial	3
+IGCT010	Yes	Yes	Yes	snRNA	Germinoma	Germinoma(>90%)	Trisomy21	13	Male	Intracranial	Chinese	Tiantan	Intracranial	2
+IGCT046	Yes	Yes	Yes	snRNA	YST	YST(>80%)	Normal	12	Male	Intracranial	Chinese	Tiantan	Intracranial	4
+IGCT054	Yes	Yes	Yes	No	YST	YST(>90%)	Normal	11	Male	Intracranial	Chinese	Tiantan	Intracranial	5
+IGCT135	Yes	Yes	Yes	Pacbio_fullLength	YST	YST(>90%)	Normal	14	Male	Intracranial	Chinese	Tiantan	Intracranial	6

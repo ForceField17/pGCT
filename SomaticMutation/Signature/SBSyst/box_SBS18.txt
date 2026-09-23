@@ -1,0 +1,5 @@
+SBS18	His	Freq
+NO	YST	7
+YES	YST	8
+NO	NonYST	66
+YES	NonYST	1

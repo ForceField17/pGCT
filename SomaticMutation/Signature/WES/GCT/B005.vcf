@@ -1,0 +1,26 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	15171328	.	G	T	.	.	B005	
+chr1	18859638	.	A	G	.	.	B005	
+chr1	182856525	.	GT	AAA	.	.	B005	
+chr1	223620061	.	GAGA	G	.	.	B005	
+chr10	113729288	.	G	A	.	.	B005	
+chr10	133298061	.	ATT	A	.	.	B005	
+chr11	55994655	.	G	T	.	.	B005	
+chr12	99648207	.	G	A	.	.	B005	
+chr13	109140491	.	G	C	.	.	B005	
+chr17	6686227	.	C	T	.	.	B005	
+chr2	147915124	.	T	C	.	.	B005	
+chr3	45763183	.	C	T	.	.	B005	
+chr3	52694071	.	CAG	C	.	.	B005	
+chr4	150583359	.	G	A	.	.	B005	
+chr4	161776250	.	T	C	.	.	B005	
+chr6	42727217	.	C	T	.	.	B005	
+chr7	113878764	.	A	G	.	.	B005	
+chr7	140522107	.	A	C	.	.	B005	
+chr8	22003873	.	T	TA	.	.	B005	
+chr8	85177590	.	T	A	.	.	B005	
+chr9	94300192	.	G	A	.	.	B005	
+chrX	21655729	.	T	G	.	.	B005	

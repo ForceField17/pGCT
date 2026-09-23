@@ -1,0 +1,33 @@
+##fileformat=VCFv4.1								
+##reference=hg38
+##source=GCT							
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	39332183	.	C	T	.	.	B010	
+chr1	158700581	.	A	G	.	.	B010	
+chr1	175396614	.	G	A	.	.	B010	
+chr11	67490278	.	C	T	.	.	B010	
+chr11	108161282	.	G	C	.	.	B010	
+chr12	13076268	.	C	A	.	.	B010	
+chr12	25245350	.	C	A	.	.	B010	
+chr12	123771711	.	C	G	.	.	B010	
+chr14	73024528	.	CACACCCACCATATAATAG	C	.	.	B010	
+chr16	74909598	.	G	T	.	.	B010	
+chr17	7583970	.	G	C	.	.	B010	
+chr17	15308704	.	G	A	.	.	B010	
+chr20	5549384	.	G	C	.	.	B010	
+chr3	49683919	.	C	T	.	.	B010	
+chr3	49685563	.	C	T	.	.	B010	
+chr3	64099314	.	G	T	.	.	B010	
+chr4	1025372	.	C	CG	.	.	B010	
+chr4	78369801	.	G	T	.	.	B010	
+chr4	168361198	.	G	T	.	.	B010	
+chr5	141376325	.	G	A	.	.	B010	
+chr5	141399746	.	C	A	.	.	B010	
+chr5	147408867	.	C	T	.	.	B010	
+chr7	23301018	.	G	T	.	.	B010	
+chr8	73651068	.	C	T	.	.	B010	
+chr8	143576834	.	C	T	.	.	B010	
+chr8	144413550	.	C	G	.	.	B010	
+chr9	137818125	.	A	T	.	.	B010	
+chrX	9894479	.	G	T	.	.	B010	
+chrX	83508392	.	C	G	.	.	B010	
